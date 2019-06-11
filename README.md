@@ -7,4 +7,4 @@ An demo react native shopping cart using Redux, Redux reselect and React Native.
 - git clone https://github.com/LaurieWilliamsNZ/ReactNativeShopDemo.git
 - npm i
 - Run iOs: react-native run-ios  
-- Run Androind: react-native run-android  
+- Run Android: react-native run-android  
