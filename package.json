@@ -10,7 +10,7 @@
   "dependencies": {
     "prop-types": "^15.6.2",
     "react": "16.6.3",
-    "react-native": "0.57.8",
+    "react-native": "0.70.2",
     "react-native-debugger-open": "^0.3.15",
     "react-native-elements": "^0.19.1",
     "react-native-platform-stylesheet": "0.0.6",
